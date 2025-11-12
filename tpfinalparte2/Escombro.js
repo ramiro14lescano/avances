@@ -1,0 +1,4 @@
+class Escombro {
+  mover() {}
+  dibujar() {}
+}
